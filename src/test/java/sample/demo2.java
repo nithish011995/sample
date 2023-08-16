@@ -9,6 +9,8 @@ public static void main(String[] args) {
 		System.out.println("life is short");
 		
 		System.out.println("just enjoy");
+		
+		System.out.println("KABADDI");
 }
 
 }
