@@ -9,6 +9,8 @@ public class demo {
 		System.out.println("Hi this is my first commit");
 		
 		System.out.println("mad");
+		
+		System.out.println("baega normal hagu");
 	
 	
 }
